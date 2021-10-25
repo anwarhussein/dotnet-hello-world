@@ -1,0 +1,16 @@
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\bin\Debug\net5.0\dotnet-hello-world.exe
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\bin\Debug\net5.0\dotnet-hello-world.deps.json
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\bin\Debug\net5.0\dotnet-hello-world.runtimeconfig.json
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\bin\Debug\net5.0\dotnet-hello-world.runtimeconfig.dev.json
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\bin\Debug\net5.0\dotnet-hello-world.dll
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\bin\Debug\net5.0\ref\dotnet-hello-world.dll
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\bin\Debug\net5.0\dotnet-hello-world.pdb
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.csproj.AssemblyReference.cache
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.AssemblyInfoInputs.cache
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.AssemblyInfo.cs
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.csproj.CoreCompileInputs.cache
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.dll
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\ref\dotnet-hello-world.dll
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.pdb
+C:\Users\17017\documents\anwar\Prime\tier3\dotnet-hello-world\obj\Debug\net5.0\dotnet-hello-world.genruntimeconfig.cache

@@ -10,10 +10,10 @@ namespace dotnet_hello_world
             Console.WriteLine("Hello World!");
             Console.WriteLine(lovefunc(2, 2));
             Console.WriteLine(lovefunc(5, 2));
-            Object[] users = { 1, 4, 5, 6, 8, 6 };
+            Object[] arr = { 1, 4, 5, 6, 8, 6 };
             int [] array = { 1, 4, 0, -5, 8, -2 };
-            Console.WriteLine(Check(users, 3));
-            Console.WriteLine(Check(users, 4));
+            Console.WriteLine(Check(arr, 3));
+            Console.WriteLine(Check(arr, 4));
             Console.WriteLine(PositiveSum(array));
         }
 
